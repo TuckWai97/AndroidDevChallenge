@@ -19,7 +19,8 @@ Potential application in other places
 In other places such as school, university or college, it is often that many would confuse for direction to their destination when inside a building. Just camera access with the app can solve it all within seconds!
 
 Tell us how you plan on bringing it to life. 
-________________________________________Describe where your project is, how you could use Google’s help in the endeavor, and how you plan on using On-Device ML technology to bring the concept to life. The best submissions have a great idea combined with a concrete path of where you plan on going, which should include: 
+________________________________________
+Describe where your project is, how you could use Google’s help in the endeavor, and how you plan on using On-Device ML technology to bring the concept to life. The best submissions have a great idea combined with a concrete path of where you plan on going, which should include: 
 ●	(1) any potential sample code you’ve already written, 
 ●	(2) a list of the ways you could use Google’s help, 
 ●	(3) as well as the timeline on how you plan on bringing it to life by May 1, 2020. 
@@ -52,7 +53,8 @@ April 2020
 •	Deploy and publish to Google Play Store
 
 Tell us about you. 
-________________________________________ A great idea is just one part of the equation; we also want to learn a bit more about you. Share with us some of your other projects so we can get an idea of how we can assist you with your project. 
+________________________________________ 
+A great idea is just one part of the equation; we also want to learn a bit more about you. Share with us some of your other projects so we can get an idea of how we can assist you with your project. 
 
 Hi, I am Tuck Wai. I come from Malaysia, currently doing 3rd  year in Mechatronics Engineering. Learn about Android Development since 2018 and aims to become a  full-fledged Android Developer.
 Currently, I had not previously done personal projects, since I just found out the Android Development and learning it. Once I saw the Android Developer Challenge is open for submission, I plan to submit an idea as soon as possible when I’m not too occupied with homework and assignments.
