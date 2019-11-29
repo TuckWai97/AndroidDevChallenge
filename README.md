@@ -62,7 +62,9 @@ Currently, I had not previously done personal projects, since I just found out t
 I hope I can make an impact in the world by working on an application that can benefit millions of people, improving the lives of many.
 
 Know more about me:
+
 My LinkedIn profile-https://www.linkedin.com/in/yip-tuck-wai-127238130/
+
 Github profile-https://github.com/dragonyip285
 
 
